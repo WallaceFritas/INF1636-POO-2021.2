@@ -1,4 +1,4 @@
-Trabalho feito na isciplica e orientaçao a obejetos em 21.2
+Trabalho feito na disciplica e orientação a obejetos em 21.2
 
 Regras do jogo
 Qual o objetivo do jogo?
